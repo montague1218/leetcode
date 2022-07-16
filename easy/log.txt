@@ -1,8 +1,15 @@
 [Solved]
 20. Valid Parentheses
+66. Plus One
 67. Add Binary
+268. Missing Number
+338. Counting Bits
+504. Base 7
+509. Fibonacci Number
+709. To Lower Case
 
 [Unsolved]
 1. Two Sum
-
+14. Longest Common Prefix
+121. Best Time to Buy and Sell Stock
 

@@ -40,3 +40,7 @@ class Solution(object):
 sol = Solution()
 c = sol.isValid('([]){}{()}')
 print(c)
+
+# This can be solved by implementing a stack
+# matched parenthese dissolves each other
+# unmatched left-parenthese accumulates in stack, otherwise the parsing fails

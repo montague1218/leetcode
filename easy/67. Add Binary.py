@@ -18,7 +18,7 @@ class Solution(object):
             s2 = b[n2 - 1 - i] if n2 - 1 - i >= 0 else '0'
 
             bit, bitCarry = self.addBits(s1, s2)
-            print(s1, s2, bit, bitCarry, carry)
+
             if bit == '0' and carry == '1':
                 bit = '1'
             elif bit == '1' and carry == '1':
@@ -48,3 +48,7 @@ class Solution(object):
 sol = Solution()
 c = sol.addBinary("110", "1010")
 print(c)
+
+# each pair of bits add itself, the carry produced is pushed to the next digit
+# the carry for the current digit is added to the added bits
+# note (carry+added_bits) <= 1, so no extra carry is produced
