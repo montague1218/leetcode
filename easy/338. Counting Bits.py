@@ -20,7 +20,7 @@ class Solution(object):
                 pow2 *= 2
             else:
                 bits[p] = bits[p - pow2] + bits[pow2]
-
+                # this is a homomorphism
         return bits
 
 

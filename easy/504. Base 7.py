@@ -21,6 +21,7 @@ class Solution(object):
         reversedDigits.reverse()
         return ''.join(reversedDigits)
 
+
 sol = Solution()
 c = sol.convertToBase7(-100)
 print(c)

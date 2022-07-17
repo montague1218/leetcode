@@ -4,9 +4,12 @@
 67. Add Binary
 268. Missing Number
 338. Counting Bits
+476. Number Complement
 504. Base 7
+520. Detect Capital
 509. Fibonacci Number
 709. To Lower Case
+771. Jewels and Stones
 
 [Unsolved]
 1. Two Sum
