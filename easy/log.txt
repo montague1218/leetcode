@@ -2,6 +2,7 @@
 20. Valid Parentheses
 66. Plus One
 67. Add Binary
+88. Merge Sorted Array
 268. Missing Number
 338. Counting Bits
 476. Number Complement
@@ -10,6 +11,9 @@
 509. Fibonacci Number
 709. To Lower Case
 771. Jewels and Stones
+905. Sort Array By Parity
+922. Sort Array By Parity II
+977. Squares of a Sorted Array
 
 [Unsolved]
 1. Two Sum
