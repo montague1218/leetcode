@@ -25,3 +25,6 @@ class Solution(object):
 sol = Solution()
 c = sol.multiply("13579", "24680")
 print(c)
+
+# this solution trivially converts each digit character into its integer form
+# then typical multiplication follows
