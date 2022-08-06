@@ -14,6 +14,7 @@
 905. Sort Array By Parity
 922. Sort Array By Parity II
 977. Squares of a Sorted Array
+1351. Count Negative Numbers in a Sorted Matrix
 
 [Unsolved]
 1. Two Sum
