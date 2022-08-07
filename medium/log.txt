@@ -1,4 +1,5 @@
 [Solved]
 12. Integer to Roman
 29. Divide Two Integers
+36. Valid Sudoku
 43. Multiply Strings

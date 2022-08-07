@@ -3,6 +3,8 @@
 66. Plus One
 67. Add Binary
 88. Merge Sorted Array
+104. Maximum Depth of Binary Tree.py
+111. Minimum Depth of Binary Tree
 268. Missing Number
 338. Counting Bits
 476. Number Complement
