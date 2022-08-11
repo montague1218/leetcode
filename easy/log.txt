@@ -18,6 +18,8 @@
 905. Sort Array By Parity
 922. Sort Array By Parity II
 977. Squares of a Sorted Array
+1137. N-th Tribonacci Number
+1281. Subtract the Product and Sum of Digits of an Integer
 1351. Count Negative Numbers in a Sorted Matrix
 
 [Unsolved]
