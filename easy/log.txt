@@ -7,7 +7,9 @@
 101. Symmetric Tree
 104. Maximum Depth of Binary Tree.py
 111. Minimum Depth of Binary Tree
+141. Linked List Cycle
 144. Binary Tree Preorder Traversal
+225. Implement Stack using Queues
 226. Invert Binary Tree
 257. Binary Tree Paths
 268. Missing Number
