@@ -3,4 +3,6 @@
 29. Divide Two Integers
 36. Valid Sudoku
 43. Multiply Strings
+56. Merge Intervals
+57. Insert Interval
 537. Complex Number Multiplication
