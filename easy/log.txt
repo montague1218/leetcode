@@ -24,8 +24,12 @@
 504. Base 7
 520. Detect Capital
 509. Fibonacci Number
+598. Range Addition II.py
 709. To Lower Case
 771. Jewels and Stones
+821. Shortest Distance to a Character.py
+832. Flipping an Image.py
+867. Transpose Matrix.py
 905. Sort Array By Parity
 922. Sort Array By Parity II
 977. Squares of a Sorted Array
