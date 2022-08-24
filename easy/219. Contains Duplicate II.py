@@ -13,7 +13,7 @@ class Solution(object):
             if n not in group:
                 group[n] = i
             else:
-                if i - group[n][-1] <= k:
+                if i - group[n] <= k:
                     return True
                 group[n] = i
         return False

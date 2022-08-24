@@ -20,6 +20,7 @@
 387. First Unique Character in a String
 404. Sum of Left Leaves
 476. Number Complement
+485. Max Consecutive Ones
 504. Base 7
 520. Detect Capital
 509. Fibonacci Number
@@ -31,6 +32,7 @@
 1137. N-th Tribonacci Number
 1281. Subtract the Product and Sum of Digits of an Integer
 1351. Count Negative Numbers in a Sorted Matrix
+1446. Consecutive Characters
 
 [Unsolved]
 1. Two Sum
