@@ -1,5 +1,6 @@
 [Solved]
 12. Integer to Roman
+19. Remove Nth Node From End of List
 24. Swap Nodes in Pairs.py
 29. Divide Two Integers
 36. Valid Sudoku
