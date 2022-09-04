@@ -6,7 +6,8 @@
 88. Merge Sorted Array
 94. Binary Tree Inorder Traversal
 101. Symmetric Tree
-104. Maximum Depth of Binary Tree.py
+104. Maximum Depth of Binary Tree
+110. Balanced Binary Tree
 111. Minimum Depth of Binary Tree
 141. Linked List Cycle
 144. Binary Tree Preorder Traversal
@@ -25,12 +26,12 @@
 504. Base 7
 520. Detect Capital
 509. Fibonacci Number
-598. Range Addition II.py
+598. Range Addition II
 709. To Lower Case
 771. Jewels and Stones
-821. Shortest Distance to a Character.py
-832. Flipping an Image.py
-867. Transpose Matrix.py
+821. Shortest Distance to a Character
+832. Flipping an Image
+867. Transpose Matrix
 905. Sort Array By Parity
 922. Sort Array By Parity II
 977. Squares of a Sorted Array
