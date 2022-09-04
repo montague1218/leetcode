@@ -12,6 +12,7 @@
 136. Single Number
 141. Linked List Cycle
 144. Binary Tree Preorder Traversal
+191. Number of 1 Bits
 217. Contains Duplicate
 219. Contains Duplicate II
 225. Implement Stack using Queues
