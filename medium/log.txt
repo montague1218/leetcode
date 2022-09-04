@@ -1,13 +1,14 @@
 [Solved]
 12. Integer to Roman
 19. Remove Nth Node From End of List
-24. Swap Nodes in Pairs.py
+24. Swap Nodes in Pairs
 29. Divide Two Integers
 36. Valid Sudoku
 43. Multiply Strings
 56. Merge Intervals
 57. Insert Interval
 75. Sort Colors
-199. Binary Tree Right Side View.py
+199. Binary Tree Right Side View
+200. Number of Islands
 537. Complex Number Multiplication
-1759. Count Number of Homogenous Substrings.py
+1759. Count Number of Homogenous Substrings
