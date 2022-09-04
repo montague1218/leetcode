@@ -22,6 +22,7 @@
 338. Counting Bits
 387. First Unique Character in a String
 404. Sum of Left Leaves
+462. Hamming Distance
 476. Number Complement
 485. Max Consecutive Ones
 504. Base 7

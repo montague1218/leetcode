@@ -10,5 +10,6 @@
 75. Sort Colors
 199. Binary Tree Right Side View
 200. Number of Islands
+472. Total Hamming Distance
 537. Complex Number Multiplication
 1759. Count Number of Homogenous Substrings
