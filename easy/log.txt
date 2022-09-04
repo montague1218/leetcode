@@ -2,6 +2,7 @@
 20. Valid Parentheses
 66. Plus One
 67. Add Binary
+83. Remove Duplicates from Sorted List
 88. Merge Sorted Array
 94. Binary Tree Inorder Traversal
 101. Symmetric Tree
@@ -37,6 +38,7 @@
 1281. Subtract the Product and Sum of Digits of an Integer
 1351. Count Negative Numbers in a Sorted Matrix
 1446. Consecutive Characters
+1859. Sorting the Sentence
 
 [Unsolved]
 1. Two Sum
