@@ -8,6 +8,7 @@
 56. Merge Intervals
 57. Insert Interval
 75. Sort Colors
+143. Reorder List
 199. Binary Tree Right Side View
 200. Number of Islands
 472. Total Hamming Distance
