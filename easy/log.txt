@@ -13,13 +13,16 @@
 141. Linked List Cycle
 144. Binary Tree Preorder Traversal
 191. Number of 1 Bits
+203. Remove Linked List Elements
 217. Contains Duplicate
 219. Contains Duplicate II
 225. Implement Stack using Queues
 226. Invert Binary Tree
+231. Power of Two
 257. Binary Tree Paths
 268. Missing Number
 283. Move Zeros
+290. Word Pattern
 338. Counting Bits
 387. First Unique Character in a String
 404. Sum of Left Leaves
@@ -41,8 +44,10 @@
 1137. N-th Tribonacci Number
 1281. Subtract the Product and Sum of Digits of an Integer
 1351. Count Negative Numbers in a Sorted Matrix
+1436. Destination City
 1446. Consecutive Characters
 1859. Sorting the Sentence
+2235. Add Two Integers
 
 [Unsolved]
 1. Two Sum
