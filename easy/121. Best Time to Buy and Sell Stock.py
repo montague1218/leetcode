@@ -4,25 +4,25 @@ class Solution(object):
         :type prices: List[int]
         :rtype: int
         """
-        n = len(prices)
 
-        if n == 1:
+        if len(prices) == 1:
             return 0
 
-        decreasing = True
+        max_profit = 0
+        min_buy, max_sell = prices[0], prices[0]
+        for price in prices:
+            if price >= max_sell:
+                max_sell = price
+                max_profit = max(max_profit, max_sell - max_profit)
+            elif price <= min_buy:
+                min_buy, max_sell = price, price
 
-        # check of monotoncity seems required?
-
-        maxProfit = 0
-        for i in range(n):
-            for j in range(n - 1 - i):
-                diff = prices[i + j + 1] - prices[i]
-                if diff > maxProfit:
-                    maxProfit = diff
-
-        return maxProfit
+        return max_profit
 
 
 sol = Solution()
-c = sol.maxProfit([7, 6, 4, 3, 1])
+c = sol.maxProfit([3, 2, 6, 5, 0, 3])
 print(c)
+
+# this solution dynamically traces the profit of the latest longest subsequence
+# and memorizes the max profit for comparison
