@@ -15,6 +15,7 @@
 144. Binary Tree Preorder Traversal
 191. Number of 1 Bits
 203. Remove Linked List Elements
+206. Reverse Linked List
 217. Contains Duplicate
 219. Contains Duplicate II
 225. Implement Stack using Queues
@@ -25,6 +26,7 @@
 283. Move Zeros
 290. Word Pattern
 338. Counting Bits
+350. Intersection of Two Arrays II
 387. First Unique Character in a String
 404. Sum of Left Leaves
 414. Third Maximum Number
