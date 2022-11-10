@@ -42,6 +42,9 @@
 520. Detect Capital
 594. Longest Harmonious Subsequence
 598. Range Addition II
+643. Maximum Average Subarray I.py
+661. Image Smoother.py
+674. Longest Continuous Increasing Subsequence.py
 682. Baseball Game
 697. Degree of an Array
 709. To Lower Case
