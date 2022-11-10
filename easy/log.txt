@@ -28,8 +28,10 @@
 290. Word Pattern
 303. Range Sum Query - Immutable
 338. Counting Bits
+345. Reverse Vowels of a String.py
 350. Intersection of Two Arrays II
 374. Guess Number Higher or Lower
+383. Ransom Note.py
 387. First Unique Character in a String
 404. Sum of Left Leaves
 414. Third Maximum Number
@@ -60,6 +62,7 @@
 1351. Count Negative Numbers in a Sorted Matrix
 1436. Destination City
 1446. Consecutive Characters
+1512. Number of Good Pairs.py
 1859. Sorting the Sentence
 2016. Maximum Difference Between Increasing Elements
 2235. Add Two Integers
