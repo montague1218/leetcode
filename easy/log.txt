@@ -26,8 +26,10 @@
 268. Missing Number
 283. Move Zeros
 290. Word Pattern
+303. Range Sum Query - Immutable
 338. Counting Bits
 350. Intersection of Two Arrays II
+374. Guess Number Higher or Lower
 387. First Unique Character in a String
 404. Sum of Left Leaves
 414. Third Maximum Number
@@ -41,6 +43,7 @@
 594. Longest Harmonious Subsequence
 598. Range Addition II
 682. Baseball Game
+697. Degree of an Array
 709. To Lower Case
 771. Jewels and Stones
 821. Shortest Distance to a Character
