@@ -63,6 +63,7 @@
 1436. Destination City
 1446. Consecutive Characters
 1512. Number of Good Pairs.py
+1572. Matrix Diagonal Sum.py
 1859. Sorting the Sentence
 2016. Maximum Difference Between Increasing Elements
 2235. Add Two Integers
