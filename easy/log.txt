@@ -1,5 +1,6 @@
 [Solved]
 20. Valid Parentheses
+21. Merge Two Sorted Lists.py
 66. Plus One
 67. Add Binary
 83. Remove Duplicates from Sorted List
@@ -28,10 +29,10 @@
 290. Word Pattern
 303. Range Sum Query - Immutable
 338. Counting Bits
-345. Reverse Vowels of a String.py
+345. Reverse Vowels of a String
 350. Intersection of Two Arrays II
 374. Guess Number Higher or Lower
-383. Ransom Note.py
+383. Ransom Note
 387. First Unique Character in a String
 404. Sum of Left Leaves
 414. Third Maximum Number
@@ -44,9 +45,10 @@
 520. Detect Capital
 594. Longest Harmonious Subsequence
 598. Range Addition II
-643. Maximum Average Subarray I.py
-661. Image Smoother.py
-674. Longest Continuous Increasing Subsequence.py
+643. Maximum Average Subarray I
+645. Set Mismatch
+661. Image Smoother
+674. Longest Continuous Increasing Subsequence
 682. Baseball Game
 697. Degree of an Array
 709. To Lower Case
@@ -62,8 +64,8 @@
 1351. Count Negative Numbers in a Sorted Matrix
 1436. Destination City
 1446. Consecutive Characters
-1512. Number of Good Pairs.py
-1572. Matrix Diagonal Sum.py
+1512. Number of Good Pairs
+1572. Matrix Diagonal Sum
 1859. Sorting the Sentence
 2016. Maximum Difference Between Increasing Elements
 2235. Add Two Integers
