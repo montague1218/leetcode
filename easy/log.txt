@@ -3,6 +3,7 @@
 21. Merge Two Sorted Lists.py
 66. Plus One
 67. Add Binary
+70. Climbing Stairs
 83. Remove Duplicates from Sorted List
 88. Merge Sorted Array
 94. Binary Tree Inorder Traversal
@@ -52,6 +53,7 @@
 682. Baseball Game
 697. Degree of an Array
 709. To Lower Case
+746. Min Cost Climbing Stairs.py
 771. Jewels and Stones
 821. Shortest Distance to a Character
 832. Flipping an Image
@@ -59,6 +61,7 @@
 905. Sort Array By Parity
 922. Sort Array By Parity II
 977. Squares of a Sorted Array
+1025. Divisor Game
 1137. N-th Tribonacci Number
 1281. Subtract the Product and Sum of Digits of an Integer
 1351. Count Negative Numbers in a Sorted Matrix
